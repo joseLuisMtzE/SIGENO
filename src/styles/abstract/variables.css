@@ -1,0 +1,11 @@
+/* COLORS */
+
+/* Ejemplo */
+:root {
+  --color-black: #292929;
+  --color-red: #F87575;
+  --color-pink:#FFA9A3;
+  --color-light-blue:#B9E6FF;
+  --color-royal-blue:#5C95FF;
+  --default-font-size: 1.6rem;
+}

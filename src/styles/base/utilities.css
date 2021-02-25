@@ -1,0 +1,4 @@
+/* Utilidades como colores específicos, margenes, paddings, bordes */
+.app-p{
+    color:var(--color-red )
+}
